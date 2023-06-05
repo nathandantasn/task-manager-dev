@@ -1,5 +1,6 @@
 {
-    "type": "module",
+    "main": "index.js",
+    "type": "commonjs",
     "dependencies": {
         "@adminjs/express": "^6.0.0",
         "@adminjs/sequelize": "^4.0.0",
